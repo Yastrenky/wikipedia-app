@@ -1,0 +1,79 @@
+body {
+  margin-bottom: 40px;
+  color: white;
+  /*background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShvNU8_S6IljtQKvBMIGtPW10gRoH1OmoVGGzRPVLPf2ymIPLx0A");
+background-repeat: no-repeat;*/
+}
+
+.imgLogo {
+  margin-top: 10px;
+  margin-left: 32px;
+}
+
+#articlesContainer {
+  margin-top: 26px;
+}
+
+#articlesContainer div {
+  font-family: 'Shadows Into Light', cursive;
+  font-family: 'Mogra', cursive;
+  margin-top: 21px;
+  margin-left: 48px;
+  margin-right: 37px;
+  background: #5cb85c;
+  border-radius: 7px;
+  padding: 10px;
+}
+
+#articlesContainer div a {
+  text-decoration: none;
+  color: white;
+}
+
+#articlesContainer div h3 {
+  margin-left: 10px;
+}
+
+.formContainer {
+  text-align: center;
+  margin-top: -128px;
+}
+
+#searchBox {
+  color: black;
+  height: 33px;
+  width: 180px;
+  border-radius: 4px;
+  padding: 4px;
+  text-align: center;
+}
+
+
+/*#searchButton{
+  height: 44px;
+  width: 82px;
+  border-radius: 4px;
+  padding: 4px;
+  text-align: center;
+}*/
+
+.btn-group {
+  container: 'body';
+}
+
+.formContainer {
+  height: 187px;
+  background-color: #282373;
+}
+
+input#searchBox {
+  margin-top: 109px;
+}
+
+.resultSerch {
+  color: black;
+  margin-top: 10px;
+  margin-left: 48px;
+  font-family: 'Shadows Into Light', cursive;
+  font-size: 25px;
+}
