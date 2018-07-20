@@ -1,8 +1,7 @@
 body {
   margin-bottom: 40px;
   color: white;
-  /*background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShvNU8_S6IljtQKvBMIGtPW10gRoH1OmoVGGzRPVLPf2ymIPLx0A");
-background-repeat: no-repeat;*/
+background-image: url('../img/ios-linen.jpg')
 }
 
 .imgLogo {
@@ -48,7 +47,6 @@ background-repeat: no-repeat;*/
   text-align: center;
 }
 
-
 /*#searchButton{
   height: 44px;
   width: 82px;
@@ -63,7 +61,7 @@ background-repeat: no-repeat;*/
 
 .formContainer {
   height: 187px;
-  background-color: #282373;
+  background-color: rgba(0, 0, 0, 0.9)
 }
 
 input#searchBox {

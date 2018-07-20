@@ -84,10 +84,10 @@ function getArt(search) {
   searchBox.value = search
   console.log(searchBox.value);
   if(language==="es"){
-  document.querySelector('.resultSerch').textContent="Se muestran resultados de: "+searchBox.value
+  document.querySelector('.resultSerch').textContent="Se muestran Resultados para: "+searchBox.value
 
   }
   else{
-  document.querySelector('.resultSerch').textContent="Are shown results of: "+searchBox.value
+  document.querySelector('.resultSerch').textContent="Results for: "+searchBox.value
   }
 }
